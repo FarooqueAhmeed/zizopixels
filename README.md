@@ -45,7 +45,11 @@ I am a passionate developer, I have created myriad applications ranging from sim
 
 
 
+
+
 ★★My strengths include★★
+
+
 
 
 
@@ -75,6 +79,9 @@ I am a passionate developer, I have created myriad applications ranging from sim
 ✔ Web scraping
 
 ★ python
+
+
+✔ Redis
 
 
 ✔ UI
