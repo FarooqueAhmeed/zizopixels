@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Farooque Ahmed
 #### I'm Full stack web developer
-![I am Full stack web developer](https://drive.google.com/file/d/1iqRh_nm04YKAFTk49z9uNewl7HTiqEcu/view?usp=sharing)
+![I am Full stack web developer]
 
 ✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔
 
