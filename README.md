@@ -2,7 +2,13 @@
 #### I am Full stack web developer
 ![I am Full stack web developer](https://pbs.twimg.com/profile_images/1503939397267378179/VEkNPWDv_400x400.jpg)
 
+✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔
+
 I am a passionate developer, I have created myriad applications ranging from simple CLI to headless scrappers, websites.
+
+
+✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔
+
 
 ★★My services★★
 
@@ -45,7 +51,7 @@ I am a passionate developer, I have created myriad applications ranging from sim
 
 
 
-
+✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔
 
 ★★My strengths include★★
 
@@ -54,6 +60,7 @@ I am a passionate developer, I have created myriad applications ranging from sim
 
 
 
+✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔
 ✔ Python
 
 ★ Flask
@@ -64,8 +71,7 @@ I am a passionate developer, I have created myriad applications ranging from sim
 
 
 
-
-
+✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔
 ✔ JavaScript
 
 ★ Reactjs
@@ -76,13 +82,20 @@ I am a passionate developer, I have created myriad applications ranging from sim
 
 
 
+✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔
 ✔ Web scraping
 
 ★ python
 
 
+
+✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔
 ✔ Redis
 
+
+
+
+✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔
 
 ✔ UI
 
@@ -100,9 +113,15 @@ I am a passionate developer, I have created myriad applications ranging from sim
 
 
 
+
+✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔
 ✔ C/C++
 
 
+
+
+
+✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔
 
 ✔ Databases
 
@@ -116,12 +135,14 @@ I am a passionate developer, I have created myriad applications ranging from sim
 
 
 
+
+✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔
 ✔ AWS
 
 ★ S3
 
 ★ EC2
-
+✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔
 
 
 
