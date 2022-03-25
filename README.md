@@ -4,7 +4,7 @@
 
 ✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔
 
-I am a passionate developer, I have created myriad applications ranging from simple CLI to headless scrappers, websites.
+I am a passionate developer, I have created myriad applications ranging from simple CLI to headless scrappers and websites.
 
 
 ✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔
