@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 I am a passionate developer, I have created myriad applications ranging from simple CLI to headless scrappers, websites.
 
-★★My services★★
+-★★My services★★
 
-✔ Fullstack Website Development
-✔ Custom website
-✔ Custom admin dashboard
+-✔ Fullstack Website Development
+-✔ Custom website
+-✔ Custom admin dashboard
 ✔ Custom desktop applications
 ✔ Custom content management system
 ✔ eCommerce stores and websites
