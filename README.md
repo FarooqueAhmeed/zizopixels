@@ -1,26 +1,14 @@
-### Hi there 👋
+### Hi there 👋, my name is Farooque Ahmed
+#### I am Full stack web developer
+![I am Full stack web developer](https://pbs.twimg.com/profile_images/1503939397267378179/VEkNPWDv_400x400.jpg)
 
-<!--
-**zizopixels/zizopixels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 I am a passionate developer, I have created myriad applications ranging from simple CLI to headless scrappers, websites.
 
--★★My services★★
+★★My services★★
 
--✔ Fullstack Website Development
--✔ Custom website
--✔ Custom admin dashboard
+✔ Fullstack Website Development
+✔ Custom website
+✔ Custom admin dashboard
 ✔ Custom desktop applications
 ✔ Custom content management system
 ✔ eCommerce stores and websites
@@ -74,3 +62,8 @@ I am a passionate developer, I have created myriad applications ranging from sim
 ★ MySQL
 ★ SQLite
 ★ Firebase
+
+
+
+
+
